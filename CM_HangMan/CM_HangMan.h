@@ -5,4 +5,11 @@
 
 #include <iostream>
 
-// TODO: Reference additional headers your program requires here.
+class HangMan
+{
+	int Tries(int lives);
+public:
+	void Pattern();
+
+
+};
